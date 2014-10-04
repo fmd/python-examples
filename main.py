@@ -4,3 +4,4 @@ def pipi(s):
 	print s
 
 pipi("Hello")
+pipi("I'm Fareed")
